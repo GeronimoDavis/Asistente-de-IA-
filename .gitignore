@@ -1,0 +1,25 @@
+# Entorno virtual de Python
+venv/
+ENV/
+env/
+
+# Archivos de configuración y credenciales privadas
+.env
+*.env
+
+# Archivos temporales de audio generados por el programa
+*.mp3
+*.wav
+
+# Cache de Python y archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de editores e IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
